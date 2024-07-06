@@ -26,7 +26,7 @@ The goal of this project is to learn and apply various Azure tools for handling 
 
 ## My Tableau Visualization
 
-![Tableau Visualization Preview](https://public.tableau.com/views/olympic_guided_project/1?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link.png)
+![Tableau Visualization Preview](대시보드 1.png)
 
 To interact with the interactive version of the visualization, click [here](https://public.tableau.com/views/olympic_guided_project/1?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
