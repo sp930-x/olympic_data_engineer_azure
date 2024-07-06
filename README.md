@@ -25,8 +25,9 @@ The goal of this project is to learn and apply various Azure tools for handling 
 5. **Data Visualization**: Visualized analytical results using Tableau for intuitive insights presentation.
 
 ## My Tableau Visualization
+Preview of the visualization with Tableau
+![대시보드 1](https://github.com/sp930-x/olympic_data_engineer_azure/assets/54075100/088d3138-a660-43dc-8313-38329749b4cd)
 
-![Tableau Visualization Preview](olympic_data_engineer_azure/대시보드 1.png)
 
 To interact with the interactive version of the visualization, click [here](https://public.tableau.com/views/olympic_guided_project/1?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
