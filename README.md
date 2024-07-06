@@ -26,7 +26,7 @@ The goal of this project is to learn and apply various Azure tools for handling 
 
 ## My Tableau Visualization
 
-![Tableau Visualization Preview](대시보드 1.png)
+![Tableau Visualization Preview](olympic_data_engineer_azure/대시보드 1.png)
 
 To interact with the interactive version of the visualization, click [here](https://public.tableau.com/views/olympic_guided_project/1?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
@@ -39,6 +39,6 @@ Observations:
 
 ## Conclusion
 
-From the given dataset, though there were some exceptions, we can conclude that the number athletes and the number of coaches produced in the country can be factors for the number of medals (also for gold medals). This can be due to the fact that every country has different perspectives and resources to invest in the Olympics and athletes. This is inspired by the nationality distribution of both coaches and athletes. Though it does not show direct association, it shows that the infrastructure of the country to invest in the sports is essential for the ranking of the Olympics. This project provided hands-on experience with Azure's Big Data tools and enhanced skills in data engineering and analytics. Future enhancements could include real-time data processing or integrating additional data sources.
+From the given dataset, though there were some exceptions, we can conclude that the number athletes and the number of coaches produced in the country can be factors for the number of medals (also for gold medals). This can be due to the fact that every country has different perspectives and resources to invest in the Olympics and athletes. This is inspired by the nationality distribution of both coaches and athletes. Though it does not show direct association, it shows that the infrastructure of the country to invest in sports is essential for the ranking of the Olympics. This project provided hands-on experience with Azure's Big Data tools and enhanced skills in data engineering and analytics. Future enhancements could include real-time data processing or integrating additional data sources.
 
 Feel free to reach out with any questions or feedback!
