@@ -4,7 +4,7 @@ This project is inspired by Darshil Parmar's guided project [here](https://youtu
 
 ## Motivation
 
-The goal of this project is to learn and apply various Azure tools for handling large datasets, transforming raw data into actionable insights.
+The goal of this project is to learn and apply various Azure tools for handling large datasets, and transforming raw data into actionable insights.
 
 ## Technologies Used
 
@@ -34,7 +34,7 @@ To interact with the interactive version of the visualization, click [here](http
 
 
 Observations:
-1. Although countries can acquire the most medals, it does not necessarily mean they gained the most gold medals. The USA is an exceptional case. Also though ROC is one of the top 10 countries that got the most medals, it is not included in the top 10 gold medal countries.
+1. Although countries can acquire the most medals, it does not necessarily mean they gained the most gold medals. The USA is an exceptional case. 
 2. We can associate the rank of the medal acquisition to the number of athletes, which does not necessarily contribute to the exact ranking of the number of medals, but at least the top 10 range.
 3. Distribution of the nationality of coaches also intersects with the ranking but there are also outliers such as South Africa and Egypt.
 
